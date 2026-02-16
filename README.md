@@ -25,5 +25,3 @@ I’m a big fan of **reactive programming**, so I implement it where necessary.
 I believe that there are better solutions than manual release process or manual check of code correctness before merging. Therefore, I can configure **CI / CD** pipeline using **fastlane** and **Danger** tools to automate manual processes.
 
 I know that **high quality** does matter and I’m sure that it benefits in the long term. That’s why while programming I’m doing my best to avoid creating buggy and not fully working features.
-
-[![Zaprogramiacz stats](https://github-readme-stats.vercel.app/api?username=Zaprogramiacz&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
